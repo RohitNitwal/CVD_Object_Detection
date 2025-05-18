@@ -1,0 +1,19 @@
+path: /mnt/combined/rohit_nitwal/CVD2   
+
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: biker
+  1: car
+  2: pedestrian
+  3: trafficlight
+  4: trafficlight-green
+  5: trafficlight-green-left
+  6: trafficlight-red
+  7: trafficlight-red-left
+  8: trafficlight-yellow
+  9: trafficlight-yellow-left
+  10: truck
+  11: arret
